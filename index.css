@@ -1,0 +1,58 @@
+li{
+  list-style: none;
+  float: right;
+  padding: 40px 30px 30px 30px;
+}
+
+.header{
+  background-color: pink;
+  height: 100px;
+  color: white;
+}
+
+.header-logo{
+  font-size: 30px;
+  float: left;
+  padding: 30px;
+}
+
+.main{
+  background-color: #ffdbed;
+  padding-top: 50px;
+  padding-left: 400px;
+}
+
+.name{
+  padding-left: 230px;
+}
+
+.price{
+  padding-left: 230px;
+}
+
+.count{
+  padding-left: 230px;
+}
+
+.form{
+  padding-left: 190px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+input[type = "text"]{
+  width: 30px;
+}
+
+input[type = "submit"]{
+  height: 50px;
+  width: 170px;
+  border-radius: 30px;
+  color: white;
+  background-color: skyblue;
+  padding: 10px 30px 10px 30px;
+}
+
+.map{
+  padding-left: 230px;
+}
