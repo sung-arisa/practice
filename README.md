@@ -8,4 +8,5 @@ http://making.php.xdomain.jp/making/index-xfree.php
 
 自分のパソコンに入れたMySQLを使用しているため、
 自分のパソコンでMySQLを起動していない時は、上記URLで正常に動作しない。  
-また、2021-06-30以降ではサーバーの更新をしていなかった場合も同様。
+また、2021-06-30以降ではサーバーの更新をしていなかった場合も同様。  
+GoogleMapは、課金していないため、「For development purposes only」 となっている。
